@@ -15,6 +15,7 @@ class Dog
   
   def bark
     @this_dogs_bark
+    "Woof!"
   end 
 end
 
